@@ -14,6 +14,5 @@ Examples:
     
 Known issues:
 - no exception handler if values are not comma seperated
-- no exception handler if there is an invalid input
 
 Created on September 28, 2017.
