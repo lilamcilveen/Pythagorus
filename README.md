@@ -1,6 +1,6 @@
 # Pythagorus
 
-Very simple program that checks if three numbers satisfy Pythagorus' Theorem.
+Simple program checking if three numbers satisfy Pythagorus' Theorem.
 
 Input 3 comma seperated integers or floats.
 
