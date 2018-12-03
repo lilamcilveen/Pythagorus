@@ -8,9 +8,11 @@ Examples:
 
     Enter int, float or quit: int
     Enter triple: 3, 4, 5
+    true
 
     Enter int, float or quit: float
     Enter triple: 3.14, 4.12, 0.0091
+    false
     
 Known issues:
 - no exception handler if values are not comma seperated
