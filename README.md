@@ -14,6 +14,9 @@ Examples:
     Enter triple: 3.14, 4.12, 0.0091
     false
     
+    Enter int, float or quit: quit
+    good-bye
+    
 Known issues:
 - no exception handler if values are not comma seperated
 
