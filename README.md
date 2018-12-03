@@ -19,5 +19,6 @@ Examples:
     
 Known issues:
 - no exception handler if values are not comma seperated
+- no exception handler if user does not enter 3 valid ints or floats
 
 Created on September 28, 2017.
